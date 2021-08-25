@@ -1,3 +1,5 @@
 You are stranded in a cave with the enterance blocked.
 You need to find an alternate exit by solving puzzles
 or exploring.
+You need to defeat the antagonist or ease its hate for
+humanity
